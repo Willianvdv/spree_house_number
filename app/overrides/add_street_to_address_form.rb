@@ -1,5 +1,5 @@
 Deface::Override.new(
-    :virtual_path => "spree/checkout/_address.html",
+    :virtual_path => "spree/checkout/_address",
     :name => "add_street_to_address",
-    :insert_bottom => '#bcity',
+    :replace => "#baddress1",
     :text => 'Street')
