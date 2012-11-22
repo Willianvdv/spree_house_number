@@ -8,5 +8,4 @@ Deface::Override.new(
     :virtual_path => "spree/checkout/_address",
     :name => "add_street_to_shipping_address",
     :replace => "#saddress1",
-    :partial => 'spree/checkout/street_shipping)
-
+    :partial => 'spree/checkout/street_shipping')
