@@ -1,9 +1,9 @@
 
-module SpreeHousenumber
+module SpreeHouseNumber
   class Engine < Rails::Engine
     require 'spree/core'
     isolate_namespace Spree
-    engine_name 'spree_housenumber'
+    engine_name 'spree_house_number'
 
     config.autoload_paths += %W(#{config.root}/lib)
 
