@@ -1,7 +1,7 @@
 Spree house number
 ================
 
-Replaces address1 and address2 with adress and house number in the address forms. It also add these fields to the address model. On address model save it will update address1 with the values from address and housenumber.
+Replaces address1 and address2 with address and house number in the address forms. It also add these fields to the address model. On address model save it will update address1 with the values from address and housenumber.
 
 Using Spree house number
 ------------------------
