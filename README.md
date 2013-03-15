@@ -8,7 +8,9 @@ Using Spree house number
 
 Add spree_house_number to your Gemfile
 
-	`gem 'spree_house_number', :git => 'git@github.com:oxpeck/spree_house_number.git'`
+	gem 'spree_house_number', :git => 'git@github.com:oxpeck/spree_house_number.git'
+  rake spree_house_number:install:migrations
+  rake db:migrate
 
 Todo
 ----
