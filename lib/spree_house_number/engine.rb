@@ -1,4 +1,3 @@
-
 module SpreeHouseNumber
   class Engine < Rails::Engine
     require 'spree/core'
