@@ -11,7 +11,7 @@ Using Spree house number
 Add spree_house_number to your Gemfile
 
 ```
-gem 'spree_house_number', :git => 'git@github.com:oxpeck/spree_house_number.git'
+gem 'spree_house_number', :github => 'Willianvdv/spree_house_number'
 ```
 
 Todo
