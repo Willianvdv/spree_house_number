@@ -14,6 +14,12 @@ Add spree_house_number to your Gemfile
 gem 'spree_house_number', :github => 'Willianvdv/spree_house_number'
 ```
 
+Install migrations
+
+```
+rails g spree_house_number:install
+```
+
 Todo
 ----
 
